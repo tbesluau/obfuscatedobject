@@ -8,7 +8,7 @@ In your package.json:
 ```json
     {
       "dependencies": {
-        "obfuscatedobject": <appropriate git url here>
+        "obfuscatedobject": "https://github.com/tbesluau/obfuscatedobject/archive/0.1.0.tar.gz"
       } 
     }
 ```
