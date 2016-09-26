@@ -4,8 +4,11 @@
   "description": "Keep your Javascript object keys obfuscated",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha index.mocha.js"
   },
   "author": "Thomas Besluau",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
 }
