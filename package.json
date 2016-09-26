@@ -2,6 +2,7 @@
   "name": "obfuscatedobject",
   "version": "0.0.1",
   "description": "Keep your Javascript object keys obfuscated",
+  "repository": "git@github.com:tbesluau/obfuscatedobject.git",
   "main": "index.js",
   "scripts": {
     "test": "mocha index.mocha.js"
