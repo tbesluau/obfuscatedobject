@@ -1,6 +1,6 @@
 {
   "name": "obfuscatedobject",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Keep your Javascript object keys obfuscated",
   "repository": "git@github.com:tbesluau/obfuscatedobject.git",
   "main": "index.js",
